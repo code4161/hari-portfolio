@@ -37,7 +37,7 @@ export const HeroContent = () => {
         >
           {/* ✨ CHANGED: Added your name and dynamic text */}
           <span>
-            Hi, I'm Hari.
+            Hi, I&apos;m Hari.
             <br />I build{' '}
             <TypeAnimation
               sequence={[
@@ -65,7 +65,7 @@ export const HeroContent = () => {
         >
           {/* ✨ CHANGED: Refined bio for a stronger freelance voice */}
           As an experienced Full Stack Engineer, I bring value to business,
-          through Web, Mobile, Automation and AI solutions. Let's build
+          through Web, Mobile, Automation and AI solutions. Let&apos;s build
           something amazing together.
         </motion.p>
 
