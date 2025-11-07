@@ -74,8 +74,8 @@ export default function PrivacyPolicyPage() {
           Cookie Policy
         </h2>
         <p className='text-gray-300 mt-4'>
-          Hari Sankar's website operates a strict privacy policy, and we are
-          committed to being transparent about how we use cookies.
+          Hari Sankar&apos;s website operates a strict privacy policy, and we
+          are committed to being transparent about how we use cookies.
         </p>
         <p className='text-gray-300 mt-4'>
           A cookie is a small file on your computer, phone, or other device that
@@ -117,7 +117,7 @@ export default function PrivacyPolicyPage() {
         <p className='text-gray-300 mt-4'>
           You are always free to decline our cookies if your browser permits.
           Most browsers allow you to manage or delete cookies in their Settings,
-          usually under "Privacy" or "Security".
+          usually under &quot;Privacy&quot; or &quot;Security&quot;.
         </p>
 
         <h2 className='text-2xl font-semibold text-white mt-8 mb-4'>

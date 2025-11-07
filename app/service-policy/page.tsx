@@ -22,8 +22,8 @@ export default function ServicePolicyPage() {
         </h2>
         <p className='text-gray-300 mt-4'>
           As a freelance service provider, Hari Sankar delivers digital services
-          and solutions, including but not limited to website, mobile, AI development, software
-          engineering, and consultation.
+          and solutions, including but not limited to website, mobile, AI
+          development, software engineering, and consultation.
         </p>
         <p className='text-gray-300 mt-4'>
           All services are delivered digitally via electronic means (such as
@@ -44,7 +44,7 @@ export default function ServicePolicyPage() {
           adhere to a strict policy regarding refunds and cancellations.
         </p>
         <p className='text-gray-300 mt-4'>
-          <strong>"NO REFUND" & "NO CANCELLATION"</strong>
+          <strong>&quot;NO REFUND&quot; & &quot;NO CANCELLATION&quot;</strong>
         </p>
         <p className='text-gray-300 mt-4'>
           Once a project has commenced and/or payment (including any deposit or

@@ -40,14 +40,14 @@ export const Footer = () => {
         {/* Quote Section */}
         <div className='w-full max-w-3xl text-center mb-10'>
           <h2 className='text-2xl md:text-3xl font-bold text-white leading-tight'>
-            "Let's evolve your business.
+            &quot;Let&apos;s evolve your business.
           </h2>
           <p className='text-xl md:text-2xl text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 font-semibold mt-2'>
-            Next-gen AI centric development."
+            Next-gen AI centric development.&quot;
           </p>
         </div>
 
-        {/* "Reach Me" Section */}
+        {/* &quot;Reach Me&quot; Section */}
         <div className='mb-8'>
           <h3 className='font-bold text-2xl text-white text-center mb-6'>
             {reachMeColumn.title}

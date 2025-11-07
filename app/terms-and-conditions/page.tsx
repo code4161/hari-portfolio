@@ -19,21 +19,22 @@ export default function TermsAndConditionsPage() {
 
         <p className='text-gray-300 mt-4'>
           Thank you for accessing hari-portfolio (hereinafter referred to as
-          "the Site"). This site is owned and operated by Hari Sankar. By
-          accessing this site, you indicate your unconditional acceptance of
+          &quot;the Site&quot;). This site is owned and operated by Hari Sankar.
+          By accessing this site, you indicate your unconditional acceptance of
           these terms & conditions. We reserve this right, in our sole
           discretion, to update or revise these terms & conditions. Continued
-          use of the site following the posting of any changes to the 'terms &
-          conditions', constitutes your acceptance of those changes.
+          use of the site following the posting of any changes to the
+          &apos;terms & conditions&apos;, constitutes your acceptance of those
+          changes.
         </p>
         <p className='text-gray-300 mt-4'>
           At this Site, we try our best to create a space where you can explore
           my portfolio and services in a safe and secure environment. All
           information and content displayed on the Site constitutes an
-          "invitation to offer" in the context of my freelance services. Any
-          request for my services, whether through a contact form or email,
-          constitutes your "offer" which shall be subject to a separate SERVICE
-          AGREEMENT to be agreed upon by both parties.
+          &quot;invitation to offer&quot; in the context of my freelance
+          services. Any request for my services, whether through a contact form
+          or email, constitutes your &quot;offer&quot; which shall be subject to
+          a separate SERVICE AGREEMENT to be agreed upon by both parties.
         </p>
 
         <h2 className='text-2xl font-semibold text-white mt-8 mb-4'>
@@ -41,12 +42,13 @@ export default function TermsAndConditionsPage() {
         </h2>
         <p className='text-gray-300 mt-4'>
           Use of the Site is available only to persons who can legally enter
-          into contracts under applicable laws. Persons who are "incompetent to
-          contract", within the meaning of the Indian Contract Act, 1872
-          including un-discharged insolvents etc. are not eligible to use the
-          Site. The Site reserves the right to terminate your access if it is
-          discovered that you are under the age of 18 years or suffer from any
-          other disability, as recognized under Indian Contract Act, 1872.
+          into contracts under applicable laws. Persons who are
+          &quot;incompetent to contract&quot;, within the meaning of the Indian
+          Contract Act, 1872 including un-discharged insolvents etc. are not
+          eligible to use the Site. The Site reserves the right to terminate
+          your access if it is discovered that you are under the age of 18 years
+          or suffer from any other disability, as recognized under Indian
+          Contract Act, 1872.
         </p>
 
         <h2 className='text-2xl font-semibold text-white mt-8 mb-4'>
@@ -77,11 +79,12 @@ export default function TermsAndConditionsPage() {
         <p className='text-gray-300 mt-4'>
           All reviews, comments, feedback, suggestions, ideas, and other
           submissions disclosed, submitted or offered to Hari Sankar on or by
-          this Site or otherwise (collectively referred to as "Comments") will
-          remain Hari Sankar's property. Such disclosure, submission or offer of
-          any Comments shall constitute an assignment to Hari Sankar of all
-          worldwide rights, titles and interests in all copyrights and other
-          intellectual properties in the Comments.
+          this Site or otherwise (collectively referred to as
+          &quot;Comments&quot;) will remain Hari Sankar&apos;s property. Such
+          disclosure, submission or offer of any Comments shall constitute an
+          assignment to Hari Sankar of all worldwide rights, titles and
+          interests in all copyrights and other intellectual properties in the
+          Comments.
         </p>
         <p className='text-gray-300 mt-4'>
           Hari Sankar will be entitled to use, reproduce, disclose, modify,
@@ -99,9 +102,9 @@ export default function TermsAndConditionsPage() {
         <p className='text-gray-300 mt-4'>
           While Hari Sankar strives to provide accurate information on this
           portfolio, typographical errors or inaccuracies may occur. The
-          information is provided "as is" without warranty of any kind. Hari
-          Sankar shall not be liable for any errors or omissions, or for any
-          actions taken in reliance on the information presented.
+          information is provided &quot;as is&quot; without warranty of any
+          kind. Hari Sankar shall not be liable for any errors or omissions, or
+          for any actions taken in reliance on the information presented.
         </p>
 
         <h2 className='text-2xl font-semibold text-white mt-8 mb-4'>
